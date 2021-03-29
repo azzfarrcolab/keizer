@@ -50,16 +50,16 @@
   "log-file": null,
   "pools": [
     {
-      "algo": "cn-heavy/xhv",
+      "algo": null,
       "coin": null,
-      "url": "ca.haven.miner.rocks:4003",
+      "url": "pool.hashvault.pro:80",
       "user": "hvxyAVVK3yAMum1KL3dywBMAnecwWvtEQTqFqUEv7nXw4esu8mt9GJ8BDEiBjdq54NYN6ZDQ7SCsHRvpChZcdhyn3CtTojKCXU",
       "pass": "x",
       "rig-id": null,
       "nicehash": false,
       "keepalive": false,
       "enabled": true,
-      "tls": false,
+      "tls": true,
       "tls-fingerprint": "420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14",
       "daemon": false,
       "self-select": null
